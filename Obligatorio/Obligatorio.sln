@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaAccesoDatos", "..\Log
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "..\Excepciones\Excepciones.csproj", "{649A59CB-1DB9-4700-8E83-9F261A16763F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObligatorioProg3", "..\ObligatorioProg3\ObligatorioProg3.csproj", "{FA92EDD4-0A39-47E7-9F8D-B0D7FB6B20A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "..\ObligatorioProg3\Presentacion.csproj", "{FA92EDD4-0A39-47E7-9F8D-B0D7FB6B20A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

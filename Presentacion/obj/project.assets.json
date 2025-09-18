@@ -71,9 +71,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\ObligatorioProg3\\ObligatorioProg3.csproj",
-      "projectName": "ObligatorioProg3",
-      "projectPath": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\ObligatorioProg3\\ObligatorioProg3.csproj",
+      "projectUniqueName": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\ObligatorioProg3\\Presentacion.csproj",
+      "projectName": "Presentacion",
+      "projectPath": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\ObligatorioProg3\\Presentacion.csproj",
       "packagesPath": "C:\\Users\\fede\\.nuget\\packages\\",
       "outputPath": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\ObligatorioProg3\\obj\\",
       "projectStyle": "PackageReference",

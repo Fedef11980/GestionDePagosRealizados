@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA92EDD4-0A39-47E7-9F8D-B0D7FB6B20A5}|..\\ObligatorioProg3\\Presentacion.csproj|g:\\ort\\3er semestre\\programacion 3\\obligatorio\\obligatorioprog3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD6A0F2-662F-4273-9437-1D0DB6F011DC}|LogicaNegocio.csproj|g:\\ort\\3er semestre\\programacion 3\\obligatorio\\obligatorio\\entidades\\recurrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD6A0F2-662F-4273-9437-1D0DB6F011DC}|LogicaNegocio.csproj|solutionrelative:entidades\\recurrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AD6A0F2-662F-4273-9437-1D0DB6F011DC}|LogicaNegocio.csproj|g:\\ort\\3er semestre\\programacion 3\\obligatorio\\obligatorio\\entidades\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AD6A0F2-662F-4273-9437-1D0DB6F011DC}|LogicaNegocio.csproj|solutionrelative:entidades\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8AD6A0F2-662F-4273-9437-1D0DB6F011DC}|LogicaNegocio.csproj|g:\\ort\\3er semestre\\programacion 3\\obligatorio\\obligatorio\\entidades\\unico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AD6A0F2-662F-4273-9437-1D0DB6F011DC}|LogicaNegocio.csproj|solutionrelative:entidades\\unico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD6A0F2-662F-4273-9437-1D0DB6F011DC}|LogicaNegocio.csproj|g:\\ort\\3er semestre\\programacion 3\\obligatorio\\obligatorio\\entidades\\recurrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD6A0F2-662F-4273-9437-1D0DB6F011DC}|LogicaNegocio.csproj|solutionrelative:entidades\\recurrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AD6A0F2-662F-4273-9437-1D0DB6F011DC}|LogicaNegocio.csproj|g:\\ort\\3er semestre\\programacion 3\\obligatorio\\obligatorio\\entidades\\tipodegasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,8 +65,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\ObligatorioProg3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ObligatorioProg3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\ObligatorioProg3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\ObligatorioProg3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T03:03:19.355Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -102,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IValidable.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\Interface\\IValidable.cs",
               "RelativeDocumentMoniker": "Interface\\IValidable.cs",
@@ -110,12 +126,11 @@
               "RelativeToolTip": "Interface\\IValidable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T02:10:29.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T02:10:29.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Periodo.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\ValuesObjects\\Periodo.cs",
               "RelativeDocumentMoniker": "ValuesObjects\\Periodo.cs",
@@ -127,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Recurrente.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\Entidades\\Recurrente.cs",
               "RelativeDocumentMoniker": "Entidades\\Recurrente.cs",
@@ -135,11 +150,12 @@
               "RelativeToolTip": "Entidades\\Recurrente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T21:38:12.415Z"
+              "WhenOpened": "2025-09-08T21:38:12.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Pago.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\Entidades\\Pago.cs",
               "RelativeDocumentMoniker": "Entidades\\Pago.cs",
@@ -151,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TipoDeGasto.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\Entidades\\TipoDeGasto.cs",
               "RelativeDocumentMoniker": "Entidades\\TipoDeGasto.cs",
@@ -163,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Equipo.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\Entidades\\Equipo.cs",
               "RelativeDocumentMoniker": "Entidades\\Equipo.cs",
@@ -171,12 +187,11 @@
               "RelativeToolTip": "Entidades\\Equipo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T00:33:39.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T00:33:39.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Unico.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\Entidades\\Unico.cs",
               "RelativeDocumentMoniker": "Entidades\\Unico.cs",
@@ -188,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TipoRol.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\Entidades\\TipoRol.cs",
               "RelativeDocumentMoniker": "Entidades\\TipoRol.cs",
@@ -200,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Usuario.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "Entidades\\Usuario.cs",
@@ -212,19 +227,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LogicaAplicacion.csproj",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\LogicaAplicacion\\LogicaAplicacion.csproj",
               "RelativeDocumentMoniker": "..\\LogicaAplicacion\\LogicaAplicacion.csproj",
               "ToolTip": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\LogicaAplicacion\\LogicaAplicacion.csproj",
               "RelativeToolTip": "..\\LogicaAplicacion\\LogicaAplicacion.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-08T21:27:47.014Z"
+              "WhenOpened": "2025-09-08T21:27:47.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LogicaAccesoDatos.csproj",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
               "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
@@ -232,11 +248,12 @@
               "RelativeToolTip": "..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-08T21:24:05.564Z"
+              "WhenOpened": "2025-09-08T21:24:05.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\LogicaAccesoDatos\\Class1.cs",
               "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\Class1.cs",
@@ -248,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Class1.cs",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\LogicaAplicacion\\Class1.cs",
               "RelativeDocumentMoniker": "..\\LogicaAplicacion\\Class1.cs",
@@ -260,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LogicaNegocio.csproj",
               "DocumentMoniker": "G:\\ORT\\3er Semestre\\Programacion 3\\Obligatorio\\Obligatorio\\LogicaNegocio.csproj",
               "RelativeDocumentMoniker": "LogicaNegocio.csproj",
@@ -268,7 +285,8 @@
               "RelativeToolTip": "LogicaNegocio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-05T00:30:30.683Z"
+              "WhenOpened": "2025-09-05T00:30:30.683Z",
+              "EditorCaption": ""
             }
           ]
         }
